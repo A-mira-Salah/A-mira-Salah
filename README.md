@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💻 About Me
 
-<!--
-**A-mira-Salah/A-mira-Salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Frontend Developer** focused on building interactive and responsive web applications. I have experience with **HTML, CSS, JavaScript, and React**, and I am always eager to learn and explore new technologies.
 
-Here are some ideas to get you started:
+## 📚 Skills
+- HTML, CSS, JavaScript
+- React and Front-End Libraries
+- Responsive Design and API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 My Projects
+Check out my repositories to see the projects I am working on:
+- [Prayer Times App](#)
+- [News Website](#)
+
+## 🌟 Let's Connect
+Feel free to reach out for collaboration or learning together!
+
+
